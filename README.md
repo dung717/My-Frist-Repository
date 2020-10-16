@@ -14,3 +14,5 @@ Hello my name is heejung
                             손쉽게 볼 수 있으며, 내가 복용하고 있는 약의 정보도 확인할 수 있다.
             
 ### 7주차 과제
+<img src="./png/7-1.PNG"></img>
+<img src="./png/7-2.PNG"></img>
