@@ -18,7 +18,5 @@ Hello my name is heejung
 <img src="./png/7-2.PNG"></img>
 
 ### 9주차 과제
-<img src="./png/9-1.PNG"></img>
-<img src="./png/9-2.PNG"></img>
-<img src="./png/9-3.PNG"></img>
-<img src="./png/9-4.PNG"></img>
+<img src="./png/9-1.PNG"></img><img src="./png/9-2.PNG"></img>
+<img src="./png/9-3.PNG"></img><img src="./png/9-4.PNG"></img>
