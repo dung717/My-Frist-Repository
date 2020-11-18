@@ -27,3 +27,6 @@ Hello my name is heejung
 ### 11주차 과제
 <img src="./png/11-1.PNG"></img><img src="./png/11-2.PNG"></img>
 <img src="./png/11-3.PNG"></img><img src="./png/11-4.PNG"></img>
+
+### 12주차 과제
+<img src="./png/12-1.PNG"></img><img src="./png/12-2.PNG"></img>
